@@ -1,2 +1,2 @@
-Test entry 2007 at 2029-11-07T18:12:00+00:00
-fix: correct typo
+Test entry 2008 at 2029-11-08T17:12:00+00:00
+refactor: tidy snippets
