@@ -1,2 +1,2 @@
-Test entry 2019 at 2029-11-15T17:04:00+00:00
-test: extend coverage
+Test entry 2020 at 2029-11-16T10:57:00+00:00
+docs: add example
