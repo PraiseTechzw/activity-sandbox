@@ -1,2 +1,2 @@
-Test entry 8079 at 2041-05-21T14:09:00+00:00
-test: extend coverage
+Test entry 8080 at 2041-05-21T13:38:00+00:00
+docs: add example
