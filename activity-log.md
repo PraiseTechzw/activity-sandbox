@@ -1,2 +1,2 @@
-Test entry 5721 at 2036-12-31T17:58:00+00:00
-feat: add snippet
+Test entry 5722 at 2037-01-01T18:30:00+00:00
+fix: correct typo
