@@ -1,2 +1,2 @@
-Test entry 9389 at 2043-12-21T16:38:00+00:00
-test: extend coverage
+Test entry 9390 at 2043-12-21T16:33:00+00:00
+docs: add example
