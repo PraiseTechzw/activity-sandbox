@@ -1,2 +1,2 @@
-Test entry 1559 at 2028-12-27T18:26:00+00:00
-test: extend coverage
+Test entry 1560 at 2028-12-27T14:34:00+00:00
+docs: add example
