@@ -1,2 +1,2 @@
-Test entry 4575 at 2034-10-26T11:26:00+00:00
-docs: add example
+Test entry 4576 at 2034-10-26T12:11:00+00:00
+feat: add snippet
