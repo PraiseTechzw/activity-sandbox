@@ -1,2 +1,2 @@
-Test entry 8024 at 2041-04-16T15:01:00+00:00
-test: extend coverage
+Test entry 8025 at 2041-04-16T12:42:00+00:00
+docs: add example
