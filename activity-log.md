@@ -1,2 +1,2 @@
-Test entry 2017 at 2029-11-14T18:42:00+00:00
-fix: correct typo
+Test entry 2018 at 2029-11-15T11:05:00+00:00
+refactor: tidy snippets
