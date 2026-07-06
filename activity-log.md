@@ -1,2 +1,2 @@
-Test entry 263 at 2026-07-03T13:49:00+00:00
-refactor: tidy snippets
+Test entry 264 at 2026-07-06T16:40:00+00:00
+test: extend coverage
