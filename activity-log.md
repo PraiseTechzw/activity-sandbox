@@ -1,2 +1,2 @@
-Test entry 297 at 2026-07-27T13:24:00+00:00
-fix: correct typo
+Test entry 298 at 2026-07-28T12:29:00+00:00
+refactor: tidy snippets
